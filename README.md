@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahammed-Shoheb
-- 👀 I’m interested in web development/ Full Stack Development.
+- 👀 I’m interested in web development/ Frontend / Full Stack Development.
 - 🌱 I’m currently learning and working on React, HTML, CSS, JavaScript and NodeJs
 - 📫 How to reach me ... email - mdshoheb135@gmail.com
 
